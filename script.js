@@ -34,7 +34,7 @@ btnRoll.addEventListener('click', function () {
   if (playing) {
     // 1.Génerer un nombre aléàtoire
     const dice = Math.trunc(Math.random() * 6 + 1);
-    //2.Afficher un Nombre
+    //2.Afficher le nombre correspondant au dé
     diceEl.src = `dice-${dice}.png`;
     diceEl.classList.remove('hidden');
 
@@ -62,9 +62,10 @@ btnHold.addEventListener('click', function () {
       scores[activePlayer];
     //2.Vérification score >= 100
     //   Fin du jeu
-    playing = false;
     document;
     if (scores[activePlayer] >= 20) {
+      playing = false;
+      diceEl.classList.add('hidden');
       document
         .querySelector(`.player--${activePlayer}`)
         .classList.add('player--winner');
