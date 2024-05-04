@@ -79,7 +79,7 @@ btnHold.addEventListener('click', function () {
   }
 });
 
-// Réinitiailsation
+// Réinitiailsation 2
 
 document.querySelector('.btn--new').addEventListener('click', function () {
   score0El.textContent = '0';
