@@ -1,5 +1,12 @@
 Hey !
- ![RollingDiceGIF](https://github.com/merliotte/Pig-Game/assets/105237073/c0601aab-95df-4a20-848a-8caaf1ffedf2)
+
+
+
+ ![DiceWindMillDiceDancerGIF](https://github.com/merliotte/Pig-Game/assets/105237073/ee7b7ea2-3c7b-4be5-8569-fa4d39a19238)
+
+
+
+ 
 I create a new game : " Pig Game"
 
 
