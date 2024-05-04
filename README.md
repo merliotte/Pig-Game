@@ -1,7 +1,7 @@
 Hey !
+ ![RollingDiceGIF](https://github.com/merliotte/Pig-Game/assets/105237073/c0601aab-95df-4a20-848a-8caaf1ffedf2)
+I create a new game : " Pig Game"
 
-I create a new game : " Pig Game ![RollingDiceGIF](https://github.com/merliotte/Pig-Game/assets/105237073/c0601aab-95df-4a20-848a-8caaf1ffedf2)
-  "
 
 Play with your friend and here we goo !
 
