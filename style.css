@@ -38,7 +38,7 @@ main {
 
 .player {
   flex: 50%;
-  padding: 9rem;
+  padding: 7rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -140,7 +140,7 @@ main {
 }
 
 .btn:active {
-  transform: translate(-20%, 3px);
+  transform: translate(-30%, 3px);
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
 }
 
